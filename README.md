@@ -1,13 +1,12 @@
 
 # :wave: [Rohit Rajvaidya](https://github.com/RohitRajvaidya5) : FrontEnd Developer
-***
+
 
 I am "Mechanical Engineer":wrench: by Degree. I started to learn Python:snake: programming from third year of my engineering. First it is just summer holiday course for me but after completing this course I got interest in this tech field.
 
 I have learned so many python modules after that like **pygame**,**numpy**,**pandas** etc.
 
 I also got **Job** in service based companies by learning **Python Programming**.
-***
 
 ## :arrow_forward: Currently 
 
@@ -15,7 +14,6 @@ So upto this point I just wondering in this tech field and I heard the concept o
 
 Also I have learned HTML , CSS and currently working on the JavaScript. With this I want to pursue my next step as FrontEnd Developer.
 
-***
 
 ## :arrow_forward: Projects
 
@@ -26,7 +24,6 @@ With HTML and CSS I have done some basic projects:
 :ballot_box_with_check: 3. Cooking Website 
 etc.
 
-***
 
 ## :arrow_forward: Connect With Me
 
