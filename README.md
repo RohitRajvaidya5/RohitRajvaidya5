@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
 
 # :wave: [Rohit Rajvaidya](https://github.com/RohitRajvaidya5) : FrontEnd Developer
 
