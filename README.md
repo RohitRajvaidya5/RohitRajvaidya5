@@ -33,6 +33,8 @@ etc.
 - HashNode : https://codejourneybyrohit.hashnode.dev/
 - ShowCase : https://www.showwcase.com/rohitrajvaidya
 
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRajvaidya5&count_private=true)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rohitcode25)
 
 
