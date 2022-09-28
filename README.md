@@ -31,7 +31,10 @@ etc.
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRajvaidya5)](https://github.com/anuraghazra/github-readme-stats)
 ***
+![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RohitRajvaidya5&theme=rogue)
+***
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rohitcode25)
+
 
 
 
