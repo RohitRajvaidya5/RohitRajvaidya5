@@ -28,9 +28,10 @@ etc.
 
 ***
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRajvaidya5&count_private=true)
-![Rohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitRajvaidya5&theme=lights)
+
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRajvaidya5)](https://github.com/RohitRajvaidya5/github-readme-stats)
+![Rohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitRajvaidya5&theme=lights)
 ***
 ![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RohitRajvaidya5&theme=rogue)
 ***
