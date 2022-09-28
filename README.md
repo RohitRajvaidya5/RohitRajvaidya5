@@ -27,7 +27,7 @@ etc.
 - ShowCase : https://www.showwcase.com/rohitrajvaidya
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRajvaidya5&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRajvaidya5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rohitcode25)
 
 
