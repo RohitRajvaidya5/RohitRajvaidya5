@@ -31,11 +31,37 @@ etc.
 - ShowCase : https://www.showwcase.com/rohitrajvaidya
 
 ***
+
+<details>
+<br>
+<summary>GitHub Stats</summary>
+
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRajvaidya5&count_private=true)
 
+</details>
+
+
+
 ***
+
+<details>
+<br>
+<summary>Top Languages</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRajvaidya5)](https://github.com/RohitRajvaidya5/github-readme-stats)
+
+</details>
+  
+***
+
+<details>
+<br>
+<summary>GitHub Streak</summary>
+
 ![Rohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitRajvaidya5&theme=lights)
+
+</details>
+
 ***
 ![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RohitRajvaidya5&theme=rogue)
 ***
