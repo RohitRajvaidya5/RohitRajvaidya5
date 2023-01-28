@@ -63,8 +63,6 @@ etc.
 </details>
 
 ***
-![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=RohitRajvaidya5&theme=rogue)
-***
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rohitcode25)
 
 
