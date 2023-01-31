@@ -1,6 +1,6 @@
 
 
-# :wave: [Rohit Rajvaidya](https://github.com/RohitRajvaidya5) : FrontEnd Developer
+# :wave: [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 
 ![LinkedIn Banner for Profile](/assets/LinkedIn%20Banner%20for%20Profile.png)
 
@@ -10,7 +10,7 @@
 
 ## :arrow_forward: Currently![FrontEnd Development]
 
-I have learned HTML , CSS and JavaScript and currently on ReactJS.
+I have learned HTML , CSS and Basics of JavaScript.
 
 
 ## :arrow_forward: Projects
