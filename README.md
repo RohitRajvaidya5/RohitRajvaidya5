@@ -8,7 +8,7 @@
 
 [![@rohitrajvaidya5's Holopin board](https://holopin.io/api/user/board?user=rohitrajvaidya5)](https://holopin.io/@rohitrajvaidya5)
 
-## :arrow_forward: Currently![FrontEnd Development]
+## :arrow_forward: Currently
 
 I have learned HTML , CSS and Basics of JavaScript.
 
