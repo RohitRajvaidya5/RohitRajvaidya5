@@ -1,71 +1,43 @@
+## 👋 Hi, I'm [Rohit Rajvaidya](https://x.com/CodeCraftRohit)
 
+**💼 Software Engineer @Capgemini**  
+💻 2+ years of experience in **Python, MySQL & Backend Development**  
+✨ Passionate about **clean code, clever ideas, and impactful side projects**  
+🚀 Always exploring **Django, AI projects, and backend scalability**  
+💡 Let’s code something cool together!
 
-# :wave: [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
+---
 
-![LinkedIn Banner for Profile](/assets/LinkedIn%20Banner%20for%20Profile.png)
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Hacktoberfest 2022 Contribution 
+---
 
-[![@rohitrajvaidya5's Holopin board](https://holopin.io/api/user/board?user=rohitrajvaidya5)](https://holopin.io/@rohitrajvaidya5)
+### 📊 GitHub Stats
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitrajvaidya5&show_icons=true&theme=tokyonight)  
 
-## :arrow_forward: Currently
+---
 
-I have learned HTML , CSS and Basics of JavaScript.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrajvaidya5&layout=compact&theme=tokyonight)
 
+---
 
-## :arrow_forward: Projects
+### 🌱 Currently Learning
+- Django Advanced Concepts
+- AI & Multi-Agent Systems
+- DSA with Java for SDE Roles
 
-With HTML and CSS I have done some basic projects:
+---
 
-:ballot_box_with_check: 1. Tribute Page
-:ballot_box_with_check: 2. Parallax Effect Page
-:ballot_box_with_check: 3. Cooking Website 
-etc.
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rajvaidya/)
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CodeCraftRohit)
 
-## :arrow_forward: Connect With Me
-
-- Twitter : https://twitter.com/RohitCode25
-- LinkedIn : https://www.linkedin.com/in/rohit-rajvaidya/
-- HashNode : https://codejourneybyrohit.hashnode.dev/
-- ShowCase : https://www.showwcase.com/rohitrajvaidya
-
-***
-
-<details>
-<br>
-<summary>GitHub Stats</summary>
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRajvaidya5&count_private=true)
-
-</details>
-
-
-
-***
-
-<details>
-<br>
-<summary>Top Languages</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRajvaidya5)](https://github.com/RohitRajvaidya5/github-readme-stats)
-
-</details>
-  
-***
-
-<details>
-<br>
-<summary>GitHub Streak</summary>
-
-![Rohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitRajvaidya5&theme=lights)
-
-</details>
-
-***
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rohitcode25)
-
-
-
-
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user3329UY/)
