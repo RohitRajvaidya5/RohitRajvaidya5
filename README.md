@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm [Rohit Rajvaidya](https://x.com/CodeCraftRohit)
 
 **💼 Software Engineer @Capgemini**  
-💻 2+ years of experience in **Python, MySQL & Backend Development**  
+💻 3+ years of experience in **Python, MySQL & Backend Development**  
 ✨ Passionate about **clean code, clever ideas, and impactful side projects**  
 🚀 Always exploring **Django, AI projects, and backend scalability**  
 💡 Let’s code something cool together!
