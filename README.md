@@ -34,6 +34,42 @@
 - DSA with Java for SDE Roles
 
 ---
+<a href="https://app.daily.dev/codecraftrohit">
+  <svg
+    width="652"
+    height="260"
+    viewBox="0 0 652 260"
+    xmlns="http://www.w3.org/2000/svg"
+    role="img"
+    aria-label="Rohit Rajvaidya Dev Card"
+  >
+    <style>
+      image {
+        transform-origin: center;
+      }
+
+      svg:hover image {
+        animation: wiggle 0.6s ease-in-out;
+      }
+
+      @keyframes wiggle {
+        0%   { transform: rotate(0deg); }
+        20%  { transform: rotate(2deg); }
+        40%  { transform: rotate(-2deg); }
+        60%  { transform: rotate(1.5deg); }
+        80%  { transform: rotate(-1.5deg); }
+        100% { transform: rotate(0deg); }
+      }
+    </style>
+
+    <image
+      href="https://api.daily.dev/devcards/v2/OfQvuHLSBuVEjdOuFL3Sz.png?type=wide&r=x7m"
+      width="652"
+      height="260"
+    />
+  </svg>
+</a>
+
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rajvaidya/)
