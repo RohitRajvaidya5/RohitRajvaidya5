@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Rohit++Rajvaidya%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Rohit++Rajvaidya%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django)](https://git.io/typing-svg)
+
+---
+
 
 **💼 Software Engineer @Capgemini**  
 💻 3+ years of experience in **Python, MySQL & Backend Development**  
