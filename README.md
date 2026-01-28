@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="www.linkedin.com/in/rohit-rajvaidya">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&pause=1000&color=009FFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Rohit++Rajvaidya%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django"
       alt="Typing SVG"
