@@ -7,10 +7,9 @@
   </a>
 </p>
 
-
-
 ---
 
+---
 
 **💼 Software Engineer @Capgemini**  
 💻 3+ years of experience in **Python, MySQL & Backend Development**  
