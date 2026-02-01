@@ -41,6 +41,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohitrajvaidya5&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrajvaidya5&layout=compact&theme=tokyonight)
 
 ---
