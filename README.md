@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql" />
   </a>
 </p>
-
+     
 ---
 
 **💼 Software Engineer @Capgemini**  
